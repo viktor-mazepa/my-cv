@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Viktor Mazepa - CV</title>
 </head>
 <body>
     <h1>Viktor Mazepa</h1>
