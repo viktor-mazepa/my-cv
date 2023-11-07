@@ -55,13 +55,13 @@
         <li>Maven</li>
     </ul>
     <h2>Last Projects</h2>
-    <p><strong>Vodafone BSS</strong> - telecom operator bussiness support system (March 2019 - Present)</p>
+    <p><strong>Vodafone BSS</strong> - telecom operator business support system (March 2019 - Present)</p>
     <ul>
-        <li>Team leading, impact analysis, iterations planning, task distibution, design validation, features implementation according to design documents, bug fixing, on-site UAT support, SVT testing support, solution performance optimization</li>
+        <li>Team leading, impact analysis, iterations planning, task distribution, design validation, features implementation according to design documents, bug fixing, on-site UAT support, SVT testing support, solution performance optimization</li>
     </ul>
-     <p><strong>GTD Chile BSS</strong> - telecom operator bussiness support system (October 2017 - March 2019)</p>
+     <p><strong>GTD Chile BSS</strong> - telecom operator business support system (October 2017 - March 2019)</p>
     <ul>
-        <li>Team leading, impact analysis, iterations planning, task distibution, design validation, features implementation according to design documents, bug fixing, on-site UAT support, SVT testing support, solution performance optimization</li>
+        <li>Team leading, impact analysis, iterations planning, task distribution, design validation, features implementation according to design documents, bug fixing, on-site UAT support, SVT testing support, solution performance optimization</li>
     </ul>
      <p><strong>Swisscom FUF</strong> - telecom operaions support system (October 2013 - May 2017)</p>
     <ul>
