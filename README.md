@@ -9,6 +9,7 @@
     <h2>Experience</h2>
     <p><strong>Netcracker Technology</strong> - Group Manager/Team Lead (May 2019 - Present)</p>
     <ul>
+        <li>Team management, code review, task estimation and distribution, iterations planning, impact analysis, design validation</li>
         <li>Java, PL/SQL development on NetCracker implementation project for product integration</li>
         <li>Personnel manager; motivation, promotion; career development; evaluation of work result.</li>
         <li>Senior mentor at NetCracker training center.</li>
