@@ -30,8 +30,8 @@
         <li>Java, GWT, MySQL development on Apea AB Fire safety system</li>
     </ul>
     <h2>Education</h2>
-    <p><strong>Linnéuniversitetet</strong> - Master of Science (M.S.), Computer science · (2011 - 2013)</br>Master Thesis - <a href="https://lnu.diva-portal.org/smash/record.jsf?pid=diva2:663476">Emulator for complex sensor-based IT system</a></p>
-    <p><strong>Odessa National Politechnic University</strong> - Master of Science (M.S.), Software Engineering · (2007 - 2013)</p>
+    <p><strong>Linnéuniversitetet, Växjö, Sweden</strong> - Master of Science (M.S.), Computer science · (2011 - 2013)</br>Master Thesis - <a href="https://lnu.diva-portal.org/smash/record.jsf?pid=diva2:663476">Emulator for complex sensor-based IT system</a></p>
+    <p><strong>Odessa National Politechnic University, Odesa, Ukraine</strong> - Master of Science (M.S.), Software Engineering · (2007 - 2013)</p>
     <h2>Skills</h2>
     <ul>
         <li>Java SE</li>
