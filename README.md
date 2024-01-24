@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Viktor Mazepa</h1>
-    <p>viktor.mazepa@gmail.com, www.linkedin.com/in/viktor-mazepa</p>
+    <p>www.linkedin.com/in/viktor-mazepa</p>
     <h2>Experience</h2>
     <p><strong>Netcracker Technology</strong> - Group Manager/Team Lead (May 2019 - Present)</p>
     <ul>
