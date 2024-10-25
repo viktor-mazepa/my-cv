@@ -9,9 +9,9 @@
     <h2>Experience</h2>
     <p><strong>Netcracker Technology</strong> - Group Manager/Team Lead (May 2019 - Present)</p>
     <ul>
-        <li>Team management, code review, task estimation and distribution, iterations planning, impact analysis, design validation</li>
-        <li>Java, PL/SQL development on NetCracker implementation project for product integration</li>
-        <li>Personnel manager; motivation, promotion; career development; evaluation of work result.</li>
+        <li>Team management, code review, task estimation and distribution, iterations planning, impact analysis, design validation, features implementation</li>
+        <li>Development on NetCracker implementation project for product integration (Java, PL/SQL, Quarkus, PostgreSQL, Panache, Kubernetes, Kafka)</li>
+        <li>Personnel manager: motivation, promotion; career development; evaluation of work result.</li>
         <li>Senior mentor at NetCracker training center.</li>
     </ul>
     <p><strong>Netcracker Technology</strong> - Engineering Team Lead (October 2017 - May 2019)</p>
@@ -56,7 +56,12 @@
         <li>Maven</li>
     </ul>
     <h2>Last Projects</h2>
-    <p><strong>Vodafone BSS</strong> - telecom operator business support system (March 2019 - Present)</p>
+     <p><strong>Telus Falcon</strong> - telecom operator business support system (March 2024 - Present)</p>
+     <ul>
+        <li>Transition of the order provisioning subsystem from a monolithic architecture to the cloud for a major telecom operator. Implementing cloud services to facilitate collaboration between monolithic and cloud components in a new complex solution. 
+            Impact analysis, iterations planning, task distribution, design validation, features implementation according to design documents, bug fixing</li>
+    </ul>
+    <p><strong>Vodafone BSS</strong> - telecom operator business support system (March 2019 - March 2024)</p>
     <ul>
         <li>Team leading, impact analysis, iterations planning, task distribution, design validation, features implementation according to design documents, bug fixing, on-site UAT support, SVT testing support, solution performance optimization</li>
     </ul>
@@ -70,12 +75,13 @@
     </ul>
     <h2>Certification</h2>
     <ul>
-       <p><strong>Spring - Full course. Boot, Hibernate, Security, REST -</strong> April 2013</p>
-       <p><strong>Docker - Full course -</strong> April 2013</p>
-       <p><strong>Accessing Relational Databases with Quarkus -</strong> April 2013</p>
-       <p><strong>Building Microservices with Quarkus -</strong> April 2013</p>
-       <p><strong>Learn Go for Beginners Crash Course (Golang) -</strong> October 2013</p>
-       <p><strong>Working with Concurrency in Go (Golang) -</strong> November 2013</p>
+       <p><strong>Spring - Full course. Boot, Hibernate, Security, REST -</strong> April 2023</p>
+       <p><strong>Docker - Full course -</strong> April 2023</p>
+       <p><strong>Accessing Relational Databases with Quarkus -</strong> April 2023</p>
+       <p><strong>Building Microservices with Quarkus -</strong> April 2023</p>
+       <p><strong>Learn Go for Beginners Crash Course (Golang) -</strong> October 2023</p>
+       <p><strong>Working with Concurrency in Go (Golang) -</strong> November 2023</p>
+       <p><strong>DevOps and Kubernetes. Practical intensive course -</strong> January 2024</p>
     </ul>
 </body>
 </html>
